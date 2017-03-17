@@ -1,0 +1,26 @@
+button {
+  background-color: green;
+  color: white;
+  font-size: large;
+  font-weight: bold
+}
+
+h1 {
+  color: blue;
+  background-color: yellow;
+  width:70%
+}
+
+h2 {
+  color: red
+}
+
+body {
+  margin-left: 20%
+} 
+
+#odgovor {
+  width:100%;
+  color: blue
+}
+

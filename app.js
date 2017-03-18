@@ -16,8 +16,6 @@ function AjaxZahtev(options, callback) {
 }
 
 function PosaljiAjaxZahtev(){
-  alert("saljem zahtev")
-  return
   var options = {}
   options.metod = document.getElementById("metod").value
   options.putanja  = document.getElementById("putanja").value

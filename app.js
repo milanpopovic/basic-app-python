@@ -24,5 +24,5 @@ function PosaljiAjaxZahtev(){
 }
 
 function ProcesirajOdgovor(odgovor){
-  document.getElementById("odgovor").innerHTML = "<h1>Odgovor servera</h1><pre>"+odgovor+"</pre>"
+  document.getElementById("odgovor").innerHTML = "<h3>Odgovor servera</h3><pre>"+odgovor+"</pre>"
 }
